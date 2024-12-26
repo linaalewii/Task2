@@ -3,4 +3,4 @@ public class Main {
         MathStudent student1 = new MathStudent("Хусейн Алеви Лина", 5, 6);
         student1.writeExam();
     }
-}uhguoh
+}
